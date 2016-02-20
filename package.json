@@ -1,0 +1,25 @@
+{
+  "name": "oleh_012-totaljs_first",
+  "version": "1.0.0",
+  "description": "Work in progress...",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.1.7",
+    "mongodb-addons": "^1.2.0",
+    "total.js": "^1.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehHappy/oleh_012-totaljs_first.git"
+  },
+  "author": "Oleh Daybov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlehHappy/oleh_012-totaljs_first/issues"
+  },
+  "homepage": "https://github.com/OlehHappy/oleh_012-totaljs_first#readme"
+}
